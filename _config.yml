@@ -4,7 +4,7 @@ url: ibm-cloud.streamdata.gallery
 tag: IBM Cloud
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-entities
+github_user: streamdata-gallery-topics
 github_repo: ibm-cloud
 github_branch: master
 collections:
